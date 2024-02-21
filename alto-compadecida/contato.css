@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+#logo {
+    width: 300px;
+    background-position: center;
+  }
